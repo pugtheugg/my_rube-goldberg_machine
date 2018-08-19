@@ -1,4 +1,3 @@
-//Project thirteen - the Arduino to control fan operation
 int buttonPin = 2;                  // defines the button
 int relayPin = 3;                   // defines the relay
 int relayState = HIGH;              // defines inisial relay state 
